@@ -8,7 +8,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class Application {
 
-	//comment 
+	//comment another comment
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
